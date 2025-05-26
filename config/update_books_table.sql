@@ -1,0 +1,1 @@
+ALTER TABLE books ADD COLUMN image VARCHAR(255) DEFAULT 'default_book.jpg'; 

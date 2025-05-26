@@ -1,0 +1,2 @@
+<a href="/controllers/reservationController.php?action=accept&id=<?php echo $reservation['id']; ?>" class="btn btn-success btn-sm">Accepter</a>
+<a href="/controllers/reservationController.php?action=reject&id=<?php echo $reservation['id']; ?>" class="btn btn-danger btn-sm">Refuser</a> 
